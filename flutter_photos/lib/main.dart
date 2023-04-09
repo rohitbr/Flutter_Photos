@@ -10,7 +10,7 @@ class MyApp extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    const appTitle = 'Isolate Demo';
+    const appTitle = 'Json Decoding demo';
 
     return const MaterialApp(
       title: appTitle,
